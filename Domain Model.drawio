@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-30T18:13:34.250Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="vZCSyCHeHJbCuJsZQz5I" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-30T19:08:41.056Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="gTKJP93K5ZYo26JfFC-l" version="20.3.7" type="github">
   <diagram id="fjUW5t_5JLLUhY-h7Qe-" name="Page-1">
     <mxGraphModel dx="946" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
           <mxGeometry x="20" y="40" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rf-LpQRf5D3BdZ3Agsb2-4" value="Professor" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="220" width="140" height="120" as="geometry" />
+          <mxGeometry x="240" y="220" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Rf-LpQRf5D3BdZ3Agsb2-5" value="class teaching" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Rf-LpQRf5D3BdZ3Agsb2-4">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -31,7 +31,7 @@
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Rf-LpQRf5D3BdZ3Agsb2-8" value="Students" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="335" y="220" width="140" height="120" as="geometry" />
+          <mxGeometry x="430" y="220" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Rf-LpQRf5D3BdZ3Agsb2-9" value="class taking" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Rf-LpQRf5D3BdZ3Agsb2-8">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -40,18 +40,6 @@
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Rf-LpQRf5D3BdZ3Agsb2-11" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Rf-LpQRf5D3BdZ3Agsb2-8">
-          <mxGeometry y="90" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Rf-LpQRf5D3BdZ3Agsb2-12" value="Alumni" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="220" width="140" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="Rf-LpQRf5D3BdZ3Agsb2-13" value="class taken" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Rf-LpQRf5D3BdZ3Agsb2-12">
-          <mxGeometry y="30" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Rf-LpQRf5D3BdZ3Agsb2-14" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Rf-LpQRf5D3BdZ3Agsb2-12">
-          <mxGeometry y="60" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Rf-LpQRf5D3BdZ3Agsb2-15" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Rf-LpQRf5D3BdZ3Agsb2-12">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
