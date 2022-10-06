@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-06T19:21:34.332Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="qnzcP5Hf8qmeO2usA2i2" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-06T19:22:26.664Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="LAcJlvryoVekVHDfT_xK" version="20.4.0" type="github">
   <diagram id="fjUW5t_5JLLUhY-h7Qe-" name="Page-1">
-    <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1178" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,8 +9,14 @@
             <mxRectangle x="340" y="70" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rf-LpQRf5D3BdZ3Agsb2-3" value="user name&lt;br&gt;email&lt;br&gt;password" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Rf-LpQRf5D3BdZ3Agsb2-2" vertex="1">
-          <mxGeometry x="50" y="40" width="80" height="60" as="geometry" />
+        <mxCell id="jroqzPMtuXsRnTmYKwKe-1" value="username" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Rf-LpQRf5D3BdZ3Agsb2-2">
+          <mxGeometry y="30" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jroqzPMtuXsRnTmYKwKe-2" value="email address" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Rf-LpQRf5D3BdZ3Agsb2-2">
+          <mxGeometry y="60" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jroqzPMtuXsRnTmYKwKe-3" value="password" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Rf-LpQRf5D3BdZ3Agsb2-2">
+          <mxGeometry y="90" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Rf-LpQRf5D3BdZ3Agsb2-4" value="Professor" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="250" y="260" width="170" height="60" as="geometry" />
@@ -18,7 +24,7 @@
         <mxCell id="Rf-LpQRf5D3BdZ3Agsb2-5" value="classes teaching right now" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="Rf-LpQRf5D3BdZ3Agsb2-4" vertex="1">
           <mxGeometry y="30" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Rf-LpQRf5D3BdZ3Agsb2-8" value="Students" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+        <mxCell id="Rf-LpQRf5D3BdZ3Agsb2-8" value="Student" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="260" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Rf-LpQRf5D3BdZ3Agsb2-9" value="classes taking right now" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="Rf-LpQRf5D3BdZ3Agsb2-8" vertex="1">
